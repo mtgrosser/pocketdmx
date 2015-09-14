@@ -4,7 +4,7 @@ Attribute VB_Name = "PocketDMXHeaders"
 ' DMX Controller for GLP Pocket Scan and FreeDMX.com interface
 ' Created 2006-2008 by Matthias Grosser
 ' License: Creative Commons Non-Commercial Share-Alike 2.0
-' Website: http://developer.brainkiller.org/pocketdmx/
+' Website: http://dev.brainkiller.org/pocketdmx/
 '
 '*****************************************************************
 
